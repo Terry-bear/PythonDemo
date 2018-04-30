@@ -1,2 +1,2 @@
 # PythonDemo
-study on python
+## Life is short,i use python
