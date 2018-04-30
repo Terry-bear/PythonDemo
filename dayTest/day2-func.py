@@ -1,7 +1,7 @@
 # 高阶函数
-def highFun(x, y, z):
+def highfun(x, y, z):
     return z(x) + z(y)
-highFun(5, -5, abs)
+highfun(5, -5, abs)
 
 def ff(x):
     return x * x
